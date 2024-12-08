@@ -11,3 +11,9 @@
 1. for-select loop
 2. done channel
 3. pipelines
+
+
+
+# Channel Types
+    make(chan string, 3) -> Buffered Channel 
+    make(chan string) -> Un Buffered Channel 
